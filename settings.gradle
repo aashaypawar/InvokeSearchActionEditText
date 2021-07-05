@@ -1,0 +1,2 @@
+rootProject.name = "InvokeSearchActionEditText"
+include ':app'
